@@ -24,21 +24,22 @@ M stands for molecule. Molecular biology concepts, which are themselves quite mi
 
 Some things in the mix:
 
- - Gene (M1)  as a class of particular parts of a particular molecule of DNA or RNA in the physical world. Ex:
-     - The _TP53_  gene (M1) in the spermatozoon that gave rise to me. 
+ - Gene (M1)  as a class of particular parts of a particular molecule of DNA or RNA in the physical world (M8) that are expected to act as genes (P). Ex:
+     - The human genome has 20.000 genes (M1) . 
      
  The individual genes in the real-world. 
 
- - Gene (M2) as a class of Genes (M1) that share a very similar sequence within a unit of evolution (often a species). Ex:
+ - Gene (M2) as a superclass of Gene (M1) that share a very similar sequence within a unit of evolution (often a species). Ex:
      -  human _TP53_ gene
      
    These are types of gene (M1), and used to label individual genes in the real world. 
 
- - Gene (M3) as a class of Genes (M1) that share a very similar sequence across species. Ex:
+ - Gene (M3) as a superclass of Gene (M1) that share a very similar sequence across species. Ex:
      -  mammalian  IL2 gene (a "mammalian-specific gene") 
      
- - Gene (MP4) as a particular part of a particular molecule of DNA or RNA in the physical world, its products and impacts on an organism. Ex:
-    - The gene (M1) of the class (M2) tetR promotes resistance to tetracycline in the single bacterium that gave rise to a colony of its clones. 
+ - Gene (MP4) as a particular part of a particular molecule of DNA or RNA in the physical world (M8), its products and impacts on an organism. Ex:
+    - The tetR gene ((MP4) (i.e. sequence of nucleotides (M8) of the class "tetR" (M2) and, logically, of the class "gene" (M1)) promoted resistance to tetracycline 
+    in the single bacterium that gave rise to a colony of its clones. 
    
  - Gene (MP5) as a class of MP4. Ex:
     - The gene (M2) tetR promotes resistance to tetracycline in bacteria
@@ -103,7 +104,48 @@ or depends on wheter one would identify it to an "allele". They are different po
 Now a framework (with a thought experiment):
 
 
+A single spermatozoon is isolated in a petri dish. His name is "Carl". 
 
+Carl has genetic powers. 
+
+Carl has chromosomes, which are big DNA molecules. 
+
+Somewhere on its chromosome 17, lies a sequence of nucleotides (M8). 
+
+This sequence is not just any sequence: it has special features that make people call it by special names. 
+
+That specific sequence (M8) at Carl's chromosome 17 is part of a group of other  specific sequences (M8) that we call "genes" (M1). 
+
+In the past decades, humans have said that sequences (M8) that have other special features are called by an even more particular name. 
+
+They call it a _TP53_ gene, a gene, but with particular powers.
+
+
+So now we have the following system: 
+
+A sequence (M8) is class of a particular parts of particular molecules of DNA or RNA in the physical world 
+Our sequence (M8) of interest (say SOI1) is an instance of a sequence (M8) 
+
+A gene (M1) is a subclass of sequences (M8) with gene-like features. 
+Our sequence (M8) of interest (say SOI1) is an instance of a gene (M1)
+
+SOI1 is a part of Carl's Chromosome 17
+Carl's Chromosome 17 is a part of Carl
+Carl is an instance of spermatozoon
+A spermatozoon is a type of cell 
+Carl is an instance of a cell 
+
+A "TP53 gene" is a subclass of gene (M1) used for sequences (M8) with TP53-like features. 
+All sequences (M8) that are of the class "TP53 gene" are also of the class gene (M1)
+
+SOI1 is an instance of a TP53 gene (M1)
+A gene (M1) is a subclass of gene (M2)
+SOI1 is an instance of a gene (M1)
+
+
+
+
+Damn this is hard and I an getting confused. I need to draw it. 
 
 
 

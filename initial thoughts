@@ -1,0 +1,111 @@
+Before targeted reading and contrast to other ideas, I'll first build a draft of what I think are coherent ways to think about genes. 
+
+The word "gene" is subdefined, and rarely used with clarity, so I am not trying to define "gene" as what people think,
+but to distill from the vague natural language descriptions, definitions that are as "pure" as possible.
+
+My "pure", I mean that are not reasonably split into 2 or more explicit definitions of entities identifiable in the real world (or classes, metaclasses etc 
+of entities identifiable in te real world. 
+
+In other words, just trying to make it possible to be more precise than we currently can. 
+
+* Gene (A) as anything called "gene" in the context of life sciences
+
+The different genes:
+
+* Gene (P) as "whatever is genetically inherited and gives rise to a trait"
+
+P stands for phenotype. 
+
+Pre-DNA ideas of genes. In the likes of Mendelian "factors". 
+
+* Gene (M) as "a specific sequence of nucleic acid with particular features"
+
+M stands for molecule. Molecular biology concepts, which are themselves quite mixed. 
+
+Some things in the mix:
+
+ - Gene (M1)  as a class of particular parts of a particular molecule of DNA or RNA in the physical world. Ex:
+     - The _TP53_  gene (M1) in the spermatozoon that gave rise to me. 
+     
+ The individual genes in the real-world. 
+
+ - Gene (M2) as a class of Genes (M1) that share a very similar sequence within a unit of evolution (often a species). Ex:
+     -  human _TP53_ gene
+     
+   These are types of gene (M1), and used to label individual genes in the real world. 
+
+ - Gene (M3) as a class of Genes (M1) that share a very similar sequence across species. Ex:
+     -  mammalian  IL2 gene (a "mammalian-specific gene") 
+     
+ - Gene (MP4) as a particular part of a particular molecule of DNA or RNA in the physical world, its products and impacts on an organism. Ex:
+    - The gene (M1) of the class (M2) tetR promotes resistance to tetracycline in the single bacterium that gave rise to a colony of its clones. 
+   
+ - Gene (MP5) as a class of MP4. Ex:
+    - The gene (M2) tetR promotes resistance to tetracycline in bacteria
+    
+ - Gene sequence (M6) as a particular sequence of DNA or RNA originated from one (or a set of) identical genes (M1),
+ represented in a piece of paper or in a computer: 
+    - There is a base-change in the _TP53_ gene sequence (M6) obtained from my DNA sample in relation to the reference genome's _TP53_ gene.  
+    
+ - Gene sequence (M7) as a fictional sequence of DNA or RNA that is purportedly representative of all gene sequences (M6) of a set of individuals.
+    - Th  _HG_ gene sequences (M7) is 98% similar to the chimp _CG_ gene sequences (M7). (fictional gene names)    
+
+ -  Gene sequence (M8) as the actual order of nucleotides in a gene (M1):
+    - That gene sequence was changed after the Cas9 protein molecule located and edited the gene (M1) in the embryo that gave
+    rise to the first CRISPR-altered human being
+ 
+When we do single-molecule sequencing, we use the computational gene sequence (M6) to infer what was the molecular gene sequence (M8) of a single gene. 
+
+ - Gene sequence (M9) as a fictional sequence representative of gene sequences (M8) of a set of individuals.
+   - There is a G24914C mutation in the sequence (M9) of the spike gene (M2) in the strain B.1.1.7 strain in comparison to the gene sequence (M9) of the other strains.
+This mutation causes the gene (MP5) to bind differently to ACE2.   
+
+A gene sequence (M9) is an idealized representative of a gene sequence (M8) for many similar organisms. 
+It has relations to evolution: 
+a "genetic mutation" is a change in a gene sequence (M8) that survives selection and gets fixed in a population. When we sequence many genes (M1), we 
+get representations (M6) of their gene sequences (M8). 
+If a pattern is detected in the representations (M6), we call a short part of 
+the sequence a novel "variant" of the gene. 
+
+Ex: a change in the _Homo erectus_  _XYZ_ gene sequence (M9) altered the course of human evolution
+
+When we talk about the "sequence of the gene variant" we are usually talking about a gene sequence representation (M6) of the sequences (M8) 
+
+- A "variant" (M10) as part of a gene sequence (M7) and a class of (M6). 
+  - The G24914C variant (M10) of the spike gene (M2) is being seen in the gene sequences (M6) obtained by laboratories across England.  
+
+Meaning "a written sequence (M6) that contains the character representing "X1" where we would expect the character representing "X0" ". 
+
+- A "variant" (M11) as part of a gene sequence (M9) and a class of (M8). 
+  - The G24914C variant (M11) of the spike gene (M2) is spreading across England.
+  
+Meaning "a molecular sequence (M8) that contains "X1" where we would expect "X0" ". 
+
+I am still not sure if M9 is a class of M8. 
+
+- An allele (M12) as a subclass of gene (M1). The synonym, though, is used in particular contexts. Often used for different genes (M1) that are
+idenfiable to the same "class of genes" (M2).
+  - We edited the sequence (M8) of the recessive allele (M12) in this single cell 
+
+- An allele (M13) as a class of alleles (M12) that share some characteristic, usually meaning that they output identical gene sequences (M6).
+  - The Ashkenazi population has a high prevalence of this allele (M13)
+
+Note: There are no 2 identical gene sequences (M8), as they are physical objects, and classically one object  cannot be at 2 places at the same time. 
+There are identical gene sequences (M6), though, as they are only representations of the physical world. 
+
+When we say "this cell has a dominant and a recessive allele (M13) of the gene _XYZ_ (M2)", we are saying we believe that 
+there are 2 genes (M1) in this cell, each with a different gene sequence (M8), and that they are from 2 different alleles (M13), 
+which are classes of alleles (M12).
+
+All real-world molecules that are alleles (M12) are also genes (M1). If a gene (M1) is called "allele" 
+or depends on wheter one would identify it to an "allele". They are different pointers to the same individuals, so to speak. 
+
+Now a framework (with a thought experiment):
+
+
+
+
+
+
+
+
